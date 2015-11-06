@@ -1,0 +1,2 @@
+defmodule SmtpTester do
+end
